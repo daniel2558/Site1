@@ -1,0 +1,21 @@
+<doctype html>
+<html lang="pt-br">
+  <head>
+       <meta charset="utf-8">
+       <meta name="viewport"content="width=device-width,initial-scale=1.0">
+       <title>site</title>
+  <style>
+         bady{
+              font-family:arial
+              backgroud-color:blue;
+              color:Black;
+             }
+         h1  {
+              color:White;
+             }
+  </style>
+  </head>
+  <bady>
+       <h1>olá mundo!</h1>
+       <p>primeira pagina</p>
+  
