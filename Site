@@ -5,13 +5,13 @@
        <title>site</title>
 <section>
 <div id='foto'>
-  <img id"imagens" src="manhã jpeg alt "imagem">
+  <img id"imagens" src=" alt "imagem">
 </div>
+<div id='msg'>
+</section>
 function carregar(){
 img=window.document.getElementyById('imagem')
 data=new Date()
   </head>
-  <bady>
-       <script>
   
   
