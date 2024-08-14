@@ -5,11 +5,10 @@
        <title>site</title>
 <section>
 <div id='foto'>
+  <img id"imagens" src="manhã jpeg alt "imagem">
 function carregar(){
 img=window.document.getElementyById('imagem')
 data=new Date()
-if=(
-
   </head>
   <bady>
        <script>
