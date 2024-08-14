@@ -3,6 +3,8 @@
   <head>
        <dy onload="carregar"()"
        <title>site</title>
+<section>
+<div id='foto'>
 function carregar(){
 img=window.document.getElementyById('imagem')
 data=new Date()
