@@ -1,8 +1,6 @@
 <doctype html>
 <html lang="pt-br">
   <head>
-       <meta charset="utf-8">
-       <meta name="viewport"content="width=device-width,initial-scale=1.0">
        <title>site</title>
   <style>
          bady{
@@ -16,6 +14,5 @@
   </style>
   </head>
   <bady>
-       <h1>olá mundo!</h1>
-       <p>primeira pagina</p>
+       <script>
   
