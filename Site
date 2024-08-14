@@ -6,6 +6,7 @@
 <section>
 <div id='foto'>
   <img id"imagens" src="manhã jpeg alt "imagem">
+</div>
 function carregar(){
 img=window.document.getElementyById('imagem')
 data=new Date()
